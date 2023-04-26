@@ -22,6 +22,8 @@
 	.menu{height:50px;
 		background-color:var(--cor_verde_menu);
 		margin-top:0px;
+	}
 
-		
-		}
+	.img_principal {width:1000px;
+					text-align:center;
+				}
