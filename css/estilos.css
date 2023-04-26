@@ -10,20 +10,21 @@
 		--nome_fonte:'Titillium Web';
 	}
 
-	.logo{text-align:center;}
-
-	.topo{ background: linear-gradient(#3CB164,#C760E5);
-		height:100px;
-
-		
-
+	.logo{
+		text-align:center;
 	}
 
-	.menu{height:50px;
+	.topo{
+		background: linear-gradient(#3CB164,#C760E5);
+		height:100px;
+	}
+
+	.menu{
+		height:50px;
 		background-color:var(--cor_verde_menu);
 		margin-top:0px;
 	}
 
 	.img_principal {width:1000px;
-					text-align:center;
-				}
+		text-align:center;
+	}
