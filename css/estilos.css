@@ -24,6 +24,7 @@
 		background-color:var(--cor_verde_menu);
 		margin-top:0px;
 		color: var(--cor_fonte);
+		display: flex;
 	}
 
 	.home{
@@ -50,6 +51,7 @@
 	}
 
 	.busque{
+		display: flex;
 		background-color: var(--cor_verde_menu);
 		margin-top: 24px;
 		margin-left: 200px;
@@ -60,9 +62,20 @@
 		font-family:var(--nome_fonte) ;
 	}
 
+	.txtbusque{
+		background-color: var(--cor_verde_menu);
+		width: 800px;
+		color: var(--cor_fonte);
+		border-radius: 5px;
+		border: 0px;
+		font-size: 20px;
+		font-family:var(--nome_fonte);
+		font-style: italic;
+	
+	}
+
 	.lupa{
 		height: 25px;
-		margin-left: 700px;
 	}
 
 	.img_principal {
