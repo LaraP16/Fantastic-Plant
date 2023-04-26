@@ -1,7 +1,7 @@
 *{margin:0px;
 	padding:0px;}
 
-	:root { --cor_header_verde:#3CB164;
+	:root{ --cor_header_verde:#3CB164;
 		--cor_header_roxo:#C760E5;
 		--cor_verde_menu:#4EDA7E;
 		--cor_footer_roxo:#E3A3F3;
@@ -12,11 +12,11 @@
 
 	.logo{
 		text-align:center;
+		height: 100px;
 	}
 
 	.topo{
 		background: linear-gradient(#3CB164,#C760E5);
-		height:100px;
 	}
 
 	.menu{
@@ -25,6 +25,19 @@
 		margin-top:0px;
 	}
 
-	.img_principal {width:1000px;
+	.busque{
+		background-color: blue;
+		margin-top:90px;
+	}
+
+	.img_principal {
+		width:1000px;
 		text-align:center;
+		padding: 20px;
+		padding-left: 110px;
+	}
+
+	.principal{
+		margin: 30px;
+		height: 350px;
 	}
