@@ -23,11 +23,46 @@
 		height:50px;
 		background-color:var(--cor_verde_menu);
 		margin-top:0px;
+		color: var(--cor_fonte);
+	}
+
+	.home{
+		height: 40px;
+		padding-left:100px;
+		
+	}
+
+	.folha{
+		height: 40px;
+		padding-left: 120px;
+	}
+
+	.arvore{
+		height: 40px;
+		padding-left: 190px;
+		
+	}
+
+	.planta{
+		height: 40px;
+		padding-left: 150px;
+		
 	}
 
 	.busque{
-		background-color: blue;
-		margin-top:90px;
+		background-color: var(--cor_verde_menu);
+		margin-top: 24px;
+		margin-left: 200px;
+		width: 850px;
+		color: var(--cor_fonte);
+		border-radius: 5px;
+		font-size: 20px;
+		font-family:var(--nome_fonte) ;
+	}
+
+	.lupa{
+		height: 25px;
+		margin-left: 700px;
 	}
 
 	.img_principal {
