@@ -3,13 +3,25 @@
 
 	:root { --cor_header_verde:#3CB164;
 		--cor_header_roxo:#C760E5;
-		--cor_main_verde:#4EDA7E;
+		--cor_verde_menu:#4EDA7E;
 		--cor_footer_roxo:#E3A3F3;
 		--cor_footer_verde:#63AE93;
 		--cor_fonte:#FAFAFA;
 		--nome_fonte:'Titillium Web';
 	}
 
-	.topo{ background: linear-gradient(var(--cor_header_verde), var(--cor_header_roxo),);
+	.logo{text-align:center;}
+
+	.topo{ background: linear-gradient(#3CB164,#C760E5);
+		height:100px;
+
+		
 
 	}
+
+	.menu{height:50px;
+		background-color:var(--cor_verde_menu);
+		margin-top:0px;
+
+		
+		}
