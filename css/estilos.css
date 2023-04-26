@@ -10,16 +10,6 @@
 		--nome_fonte:'Titillium Web';
 	}
 
-<<<<<<< HEAD
-	.logo{text-align:center;}
-
-	.topo{ background: linear-gradient(#3CB164,#C760E5);
-		height:100px;
-
-	}
-
-	.menu{height:40px;
-=======
 	.logo{
 		text-align:center;
 	}
@@ -31,22 +21,10 @@
 
 	.menu{
 		height:50px;
->>>>>>> ddae4ee2a90ffa5866eef39c3c171a2ac997d8ac
 		background-color:var(--cor_verde_menu);
 		margin-top:0px;
-	}
-
-	.busque{width:1100px;
-		background-color:blue;
-		margin:50px;
-		margin-top:70px;
 	}
 
 	.img_principal {width:1000px;
 		text-align:center;
 	}
-<<<<<<< HEAD
-
-
-=======
->>>>>>> ddae4ee2a90ffa5866eef39c3c171a2ac997d8ac
