@@ -76,3 +76,36 @@
 		margin: 30px;
 		height: 350px;
 	}
+
+	.contato{
+		background-color: var(--cor_footer_roxo);
+		font-family: var(--nome_fonte);
+		color:var(--cor_fonte);
+	}
+
+	.whatts{
+		height: 35px;
+		padding-left:5px;
+	}
+
+	.face{
+		height: 35px;
+		padding-left:15px;
+	}
+
+	.insta{
+		height: 35px;
+		padding-left:20px;
+	}
+
+	.mail{
+		height: 35px;
+		padding-left:25px;
+	}
+
+	.desenvolvido{
+		background-color: var(--cor_footer_verde);
+		text-align:center;
+		font-family: var(--nome_fonte);
+		color:var(--cor_fonte);
+	}
