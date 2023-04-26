@@ -15,15 +15,21 @@
 	.topo{ background: linear-gradient(#3CB164,#C760E5);
 		height:100px;
 
-		
-
 	}
 
-	.menu{height:50px;
+	.menu{height:40px;
 		background-color:var(--cor_verde_menu);
 		margin-top:0px;
 	}
 
+	.busque{width:1100px;
+		background-color:blue;
+		margin:50px;
+		margin-top:70px;
+	}
+
 	.img_principal {width:1000px;
-					text-align:center;
-				}
+		text-align:center;
+	}
+
+
