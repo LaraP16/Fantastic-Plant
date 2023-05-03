@@ -7,7 +7,7 @@
 		--cor_footer_roxo:#E3A3F3;
 		--cor_footer_verde:#63AE93;
 		--cor_fonte:#FAFAFA;
-		--nome_fonte:'Titillium Web';
+		--nome_fonte: 'Titillium Web', sans-serif;
 	}
 
 	.logo{
@@ -27,26 +27,34 @@
 		display: flex;
 	}
 
+	.menu_txt{
+		font-size: 20px;
+		color: var(--cor_fonte);
+		font-family: var(--nome_fonte);
+		padding-top: 5px;
+		text-decoration: none;
+	}
+
 	.home{
 		height: 40px;
-		padding-left:120px;
+		padding-left:130px;
 		
 	}
 
 	.folha{
 		height: 40px;
-		padding-left: 150px;
+		padding-left: 160px;
 	}
 
 	.arvore{
 		height: 40px;
-		padding-left: 150px;
+		padding-left: 170px;
 		
 	}
 
 	.planta{
 		height: 40px;
-		padding-left: 150px;
+		padding-left: 160px;
 		
 	}
 
@@ -54,7 +62,7 @@
 		display: flex;
 		background-color: var(--cor_verde_menu);
 		margin-top: 24px;
-		margin-left: 200px;
+		margin-left: 370px;
 		width: 850px;
 		color: var(--cor_fonte);
 		border-radius: 5px;
@@ -79,10 +87,10 @@
 	}
 
 	.img_principal {
-		width:1000px;
+		width:1050px;
 		text-align:center;
-		padding: 20px;
-		padding-left: 110px;
+		padding: 30px;
+		padding-left: 250px;
 	}
 
 	.principal{
@@ -94,11 +102,20 @@
 		background-color: var(--cor_footer_roxo);
 		font-family: var(--nome_fonte);
 		color:var(--cor_fonte);
+		margin-top: 80px;
+		height: 100px;
+		padding: 10px 10px 0px 10px;
 	}
+
+	.cont{
+		font-size:25px;
+	}
+
 
 	.whatts{
 		height: 35px;
 		padding-left:5px;
+	
 	}
 
 	.face{
