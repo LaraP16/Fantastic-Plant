@@ -27,7 +27,7 @@
 		display: flex;
 	}
 
-	.menu_txt{
+	.menu_txt {
 		font-size: 20px;
 		color: var(--cor_fonte);
 		font-family: var(--nome_fonte);
